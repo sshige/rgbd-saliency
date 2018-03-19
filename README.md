@@ -35,7 +35,7 @@ Our code is implemented based on [ELDNet](https://github.com/gylee1103/ELDNet) w
 - **Run demo program**
 
   ```shell
-  demo.sh
+  sh demo.sh
   ```
 If you want to test NJUDS2000 dataset images, please use NJUDS2000.caffemodel.
 
