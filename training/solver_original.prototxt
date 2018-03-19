@@ -1,0 +1,17 @@
+net: "train_original.prototxt"
+test_iter: 200
+test_interval: 100
+base_lr: 0.01
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2000
+type: "AdaDelta"
+display: 500
+max_iter: 15000
+momentum: 0.9
+#momentum2: 0.999 # this is only for Adam
+delta: 1e-08
+weight_decay: 0.0005
+snapshot: 100
+snapshot_prefix: "../past_models/0316morningNJUDSAdadelRFO"
+solver_mode: GPU

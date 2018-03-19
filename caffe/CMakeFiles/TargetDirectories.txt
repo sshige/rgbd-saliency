@@ -1,0 +1,1 @@
+/home/shi137/riku/NetRGBD/caffe/CMakeFiles/get_results.bin.dir
