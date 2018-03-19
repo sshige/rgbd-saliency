@@ -35,8 +35,7 @@ Our code is implemented based on [ELDNet](https://github.com/gylee1103/ELDNet) w
 - **Run demo program**
 
   ```shell
-  # execute this command at the root of this directory
-  ./build/get_results RGBDNet_test.prototxt RGBD1000.caffemodel test_rgb/ test_depth/ test_fill/ test_gap/ results/
+  demo.sh
   ```
 If you want to test NJUDS2000 dataset images, please use NJUDS2000.caffemodel.
 
