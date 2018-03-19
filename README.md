@@ -48,19 +48,11 @@ If you want to test NJUDS2000 dataset images, please use NJUDS2000.caffemodel.
 Please kindly cite our work if it helps your research:
 
   ```shell
-  @article{DBLP:journals/corr/ShigematsuFYB17,
-    author    = {Riku Shigematsu and
-                 David Feng and
-                 Shaodi You and
-                 Nick Barnes},
-    title     = {Learning {RGB-D} Salient Object Detection using background enclosure,
-                 depth contrast, and top-down features},
-    journal   = {CoRR},
-    volume    = {abs/1705.03607},
-    year      = {2017},
-    url       = {http://arxiv.org/abs/1705.03607},
-    timestamp = {Wed, 07 Jun 2017 14:42:30 +0200},
-    biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/ShigematsuFYB17},
-    bibsource = {dblp computer science bibliography, http://dblp.org}
+  @InProceedings{Shigematsu_2017_ICCV,
+  author = {Shigematsu, Riku and Feng, David and You, Shaodi and Barnes, Nick},
+  title = {Learning RGB-D Salient Object Detection Using Background Enclosure, Depth Contrast, and Top-Down Features},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+  month = {Oct},
+  year = {2017}
   }
   ```
