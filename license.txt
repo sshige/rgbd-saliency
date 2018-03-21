@@ -1,0 +1,8 @@
+This source code (‘Licensed Material’) is made available to the scientific community for non-commercial research purposes such as academic research, teaching, scientific publications or personal experimentation. Permission is granted by National ICT Australia Limited (NICTA) to you (the ‘Licensee’) to use, copy and distribute the Licensed Material in accordance with the following terms and conditions:
+
+- Licensee must include a reference to NICTA and the following publication in any published work that makes use of the Licensed Material: R. Shigematsu, D. Feng, S. You, and N. Barnes, Learning RGB-D Salient Object Detection Using Background Enclosure, Depth Contrast, and Top-Down Features, In: The IEEE International Conference on Computer Vision (ICCV) Workshops, Oct. 2017, pp. 2749-2757.
+- If Licensee alters the content of the Licensed Material or creates any derivative work, the Licensee must include in the altered Licensed Material or derivative work prominent notices to ensure that any recipients know that they are not receiving the original Licensed Material.
+- Licensee may not use or distribute the Licensed Material or any derivative work for commercial purposes including but not limited to, licensing or selling the Licensed Material or using the Licensed Material for commercial gain.
+- The Licensed Material is provided ‘AS IS’, without any express or implied warranties. NICTA does not accept any responsibility for errors or omissions in the Licensed Material.
+- This original license notice must be retained in all copies or derivatives of the Licensed Material.
+- All rights not expressly granted to the Licensee are reserved by NICTA.
