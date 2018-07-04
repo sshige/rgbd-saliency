@@ -39,6 +39,16 @@ Our code is implemented based on [ELDNet](https://github.com/gylee1103/ELDNet) w
   ```
 If you want to test NJUDS2000 dataset images, please use NJUDS2000.caffemodel.
 
+## How to create fill and gap maps
+  ```shell
+    # execute these command at the root of this directory
+    cd create_fill_gap && mkdir build && cd build
+    cmake ..
+    make
+    # PLEASE EDIT create_fill_gap.sh TO FIT YOUR ENVIRONMENT
+    sh create_fill_gap.sh
+  ```
+
 ## Results in our paper
 
 ![results](./figures/results.png)
