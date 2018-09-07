@@ -51,6 +51,8 @@ If you want to test NJUDS2000 dataset images, please use NJUDS2000.caffemodel.
 
 ## Results in our paper
 
+All saliency map outputs are contained in a paper_results.zip file.
+
 ![results](./figures/results.png)
 
 ## Citing our work
